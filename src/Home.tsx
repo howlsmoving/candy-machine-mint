@@ -279,6 +279,10 @@ const Home = (props: HomeProps) => {
         <p>WIP</p>
     </div>}
     />
+{/* 
+              REMOVE COMMENT AND COPY COMPONENT TO ADD MORE 
+              DROPDOWN SECTIONS.
+     */}
         {/* <Accordion 
     title={<p className="text-2xl font-bold drop-shadow-md px-10">Team</p>}
     content={<div className="text-justify px-6">
