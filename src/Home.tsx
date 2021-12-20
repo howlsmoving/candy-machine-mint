@@ -201,7 +201,7 @@ const Home = (props: HomeProps) => {
               <button className="filter drop-shadow-xl rounded-full bg-mublue text-xl my-10 px-6">
             <a className="" href="https://solanart.io/">
               {/* <img alt="menu" src="https://img.icons8.com/material-outlined/24/ffffff/menu--v1.png"/> */}
-              <p className="text-sm font-bold text-white">Buy on Solanart NOW </p>
+              <p className="text-sm font-bold text-white">Buy on Solanart</p>
             </a>
               </button>
             
